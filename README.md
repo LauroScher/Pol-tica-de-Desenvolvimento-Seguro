@@ -3,7 +3,7 @@ Documento que estabelece diretrizes para integrar segurança no ciclo de vida de
 ---
  
  # 📜 Cenário Hipotético 
- *A FINPAY (empresa fictícia) , uma fintech de médio porte que atua no setor de pagamentos digitais
+ *A FINPAY (empresa fictícia), uma fintech de médio porte que atua no setor de pagamentos digitais
 (semelhante à Elo, Cielo e BB), está em fase de expansão nacional e deseja fechar
 contratos estratégicos com grandes bancos e operadoras de cartões. No entanto,
 durante as fases iniciais de auditoria de segurança e compliance, foram identificadas
