@@ -135,15 +135,6 @@ codificação e criptografia.
 - Conduzir testes de regressão para garantir que bugs consertados não voltem a ocorrer com
 atualizações no código.
 - Testes automatizados e manuais, além de testes de penetração regulares.
-
-  
- ## ⚙️ **Processos-Chave**  
- - **Build/Deploy**:  
-   - [ ] Automação no CI/CD com verificação de dependências vulneráveis.  
-   - [ ] Registro de hashes para integridade de artefatos.  
- - **Testes**:  
-   - [ ] Validação de autenticação, criptografia e inputs.  
-   - [ ] Pentests regulares e fuzzing.  
   
  ## **Papéis e Responsabilidades**  
 A aplicação efetiva das recomendações feitas exige que cada indivíduo e equipe compreenda seu
